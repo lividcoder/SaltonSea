@@ -65,7 +65,7 @@
    csv_ovrflw_fname = 'overflow'
 /
 &init_profiles
-   lake_depth = 18.288
+   lake_depth = 85
    num_depths = 3
    the_depths = 0, 0.2, 18.288
    the_temps = 3, 4, 4
