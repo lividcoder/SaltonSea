@@ -41,12 +41,12 @@
 	   546549.916285714, 592095.742642857, 637641.569, 687641.569
 /
 &time
-   timefmt = 3
-   start = '1980-04-15'
-   stop = '2012-12-10'
-   dt = 3600
-   timezone = -6
-   num_days=730
+   timefmt = 2
+   start = '2024-03-01'
+   stop = '2024-9-03'
+   dt = 3600.0
+   timezone = -7.0
+   num_days = 186
 /
 &output
    out_dir = 'output'
