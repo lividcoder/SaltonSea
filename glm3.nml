@@ -23,14 +23,14 @@
    timefmt = 2
    start = '2024-03-01'
    stop = '2024-03-03'
-   dt = 60.0
+   dt = 3600.0
    timezone = -7.0
    num_days = 2
 /
 &output
    out_dir = 'output'
    out_fn = 'output'
-   nsave = 24
+   nsave = 1
    csv_lake_fname = 'lake'
    csv_point_nlevs = 0
    csv_point_fname = 'WQ_'
