@@ -22,10 +22,10 @@
 &time
    timefmt = 2
    start = '2024-03-01'
-   stop = '2024-03-05'
+   stop = '2024-09-03'
    dt = 3600.0
    timezone = -7.0
-   num_days = 7
+   num_days = 186
 /
 &output
    out_dir = 'output'
