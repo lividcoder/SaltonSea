@@ -3,7 +3,7 @@
    sim_name = 'GLMSimulation'
    max_layers = 500
    min_layer_vol = 0.5
-   min_layer_thick = 0.15
+   min_layer_thick = 0.25
    max_layer_thick = 0.5
    density_model = 1
    non_avg = .true.
